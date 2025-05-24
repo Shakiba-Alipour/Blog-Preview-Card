@@ -4,6 +4,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Live Version
 
-You can check out the live version (here)[]
+You can check out the live version [here](https://shakiba.dev/Blog-Preview-Card)
 
 ![](./preview.jpg)
